@@ -1,10 +1,10 @@
 # Hotdog or Not
 The repo is a sample for deep-learning model training based on the "Hotdog Or Not" classification task (inspired by the "Silicone Valley" series).
 
-The sample shows how to train a model with PyTorch and convert it to both ONNX and CoreML formats.
+The sample shows how to train a model with Python 3 and PyTorch and convert it to both ONNX and CoreML formats.
 
 ## Training code
-The training code can be found in the "main.ipynb" Jupiter Notebook. 
+The training code can be found in the "main.ipynb" Jupyter Notebook. 
 
 ## Datasets
 Train: https://www.dropbox.com/s/cupinvuotopehty/train.zip?dl=0
